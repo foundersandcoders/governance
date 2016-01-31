@@ -1,6 +1,6 @@
 # Governance
 
-Founders & Coders C.I.C. is a social enterprise whose main purpose is to develop communities capable of supporting innovative and accessible forms of learning. 
+Founders & Coders C.I.C. is a social enterprise whose main purpose is to sustain a community (and eventually *communities*) capable of supporting our free coding programmes. 
 
 We aim to open source our methods and our curriculum and to encourage others (and in particular our alumni) to replicate our model elsewhere.
 
