@@ -6,7 +6,7 @@ We aim to open source our methods and our curriculum and to encourage others (an
 
 As of February 2016, the company is no longer intending to contract directly with commercial clients, but will instead act as an employment agency and incubator, assisting alumni to find work or develop their ideas. 
 
-
+[Financial summaries](https://github.com/foundersandcoders/money).
 
 
 
